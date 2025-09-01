@@ -1,5 +1,6 @@
 
 # React E-commerce Project
+Project Link: shopwithaf.netlify.app
 
 This is a **React-based E-commerce project** using **Firebase** as backend.  
 It features user authentication, profile management, product management (admin), cart functionality, and Razorpay payment integration (test mode).
